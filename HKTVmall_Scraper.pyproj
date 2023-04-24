@@ -5,7 +5,7 @@
     <ProjectGuid>1fc70011-fcd6-459b-9d33-ebed0c22d72d</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>HKTVmall_Scraper_v1.1.py</StartupFile>
+    <StartupFile>HKTVmall_Scraper_v1.2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="HKTVmall_Scraper_v1.1.py" />
+    <Compile Include="HKTVmall_Scraper_v1.2.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.8" />

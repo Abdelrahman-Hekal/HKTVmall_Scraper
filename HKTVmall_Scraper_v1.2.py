@@ -60,7 +60,7 @@ def initialize_bot():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--lang=en")
-    #chrome_options.add_argument('--headless=new')
+    chrome_options.add_argument('--headless=new')
     chrome_options.page_load_strategy = 'normal'
     driver = uc.Chrome(version_main = ver, options=chrome_options) 
     driver.set_window_size(1920, 1080)
